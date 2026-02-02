@@ -1,0 +1,42 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: linear-gradient(to right, #f8f9fa, #eef1f5);
+    margin: 0;
+    color: #333;
+    text-align: center;
+}
+
+nav {
+    background: white;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+nav a {
+    color: #333;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+nav a:hover {
+    color: #0077b5;
+}
+
+section {
+    padding: 60px 20px;
+}
+
+h1 {
+    font-size: 34px;
+    color: #2c3e50;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    margin: 20px auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
